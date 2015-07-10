@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "userId": "111",
+            "firstName": "suman",
+            "lastName": "k",
+            "userName": "suman28"
+        },
+        {
+            "userId": "112",
+            "firstName": "ramana",
+            "lastName": "v",
+            "userName": "ramana11"
+        },
+        {
+            "userId": "113",
+            "firstName": "jagadeesh",
+            "lastName": "p",
+            "userName": "jag2"
+        },
+        {
+            "userId": "114",
+            "firstName": "maruthi",
+            "lastName": "g",
+            "userName": "maruthi2"
+        }
+    ]
+}
